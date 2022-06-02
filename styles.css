@@ -1,0 +1,29 @@
+h1 {
+    background-color: lightslategray;
+    font: Georgia;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+p1 {
+    font: Georgia;
+    background-color:lightgray;
+}
+
+h1, h2, h3, h4 {
+    background-color: darkgray;
+    font: Georgia;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+ul, ol {
+    background-color: lightsteelblue;
+    font: Georgia;
+    color: black;
+    font-size: medium;
+}
+
+
